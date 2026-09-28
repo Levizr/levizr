@@ -52,6 +52,12 @@ morph new my-app && cd my-app && morph install && morph dev
 
 Levizr is independent and open-source. If Morph saves you megabytes, sponsor us to keep it fast and free:
 
+<a href="https://razorpay.me/@levizr">
+  <img src="https://img.shields.io/badge/Donate-Razorpay-3395ff?style=for-the-badge&logo=razorpay&logoColor=white" alt="Donate via Razorpay" />
+</a>
+
+<br/>
+
 **👉 https://razorpay.me/@levizr**
 
 Every contribution — code, docs, bug reports, or donation — matters.
