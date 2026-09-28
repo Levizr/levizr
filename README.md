@@ -7,9 +7,9 @@
 [![Rust](https://img.shields.io/badge/Rust-1.85+-f74c00?style=flat-square&logo=rust)](https://rust-lang.org)
 [![C++](https://img.shields.io/badge/C++-23-4da6ff?style=flat-square&logo=cplusplus)](https://isocpp.org)
 [![OpenGL](https://img.shields.io/badge/OpenGL-3.3-f06449?style=flat-square)](https://opengl.org)
-[![Sponsor](https://img.shields.io/badge/Sponsor-Razorpay-3395ff?style=flat-square&logo=razorpay)](https://razorpay.me/@levizr)
+[![Sponsor](https://img.shields.io/badge/Sponsor-morph.levizr.com-3395ff?style=flat-square&logo=razorpay)](https://morph.levizr.com/sponsor)
 
-[Website](https://www.levizr.com) · [Morph](https://morph.levizr.com) · [GitHub](https://github.com/Levizr) · [Sponsor ❤️](https://razorpay.me/@levizr)
+[Website](https://www.levizr.com) · [Morph](https://morph.levizr.com) · [GitHub](https://github.com/Levizr) · [Sponsor ❤️](https://morph.levizr.com/sponsor)
 
 </div>
 
@@ -52,13 +52,13 @@ morph new my-app && cd my-app && morph install && morph dev
 
 Levizr is independent and open-source. If Morph saves you megabytes, sponsor us to keep it fast and free:
 
-<a href="https://razorpay.me/@levizr">
-  <img src="https://img.shields.io/badge/Donate-Razorpay-3395ff?style=for-the-badge&logo=razorpay&logoColor=white" alt="Donate via Razorpay" />
+<a href="https://morph.levizr.com/sponsor">
+  <img src="https://img.shields.io/badge/Donate-USD_+_INR-3395ff?style=for-the-badge&logo=razorpay&logoColor=white" alt="Donate via morph.levizr.com/sponsor" />
 </a>
 
 <br/>
 
-**👉 https://razorpay.me/@levizr**
+**👉 https://morph.levizr.com/sponsor**
 
 Every contribution — code, docs, bug reports, or donation — matters.
 
@@ -67,7 +67,7 @@ Every contribution — code, docs, bug reports, or donation — matters.
 - Web: https://www.levizr.com
 - Morph: https://morph.levizr.com
 - Issues: https://github.com/Levizr/morph/issues
-- Sponsor: https://razorpay.me/@levizr
+- Sponsor: https://morph.levizr.com/sponsor
 
 ---
 <div align="center">
